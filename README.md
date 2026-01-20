@@ -1,4 +1,4 @@
-# Practice Summary Card - Frontend Engineer Assessment For Detist Find
+# Practice Summary Card - Frontend Engineer Assessment For DentistFind
 
 This project implements a **Practice Summary Card** component for technical skill assessment of a frontend engineer role at DetistFind.
 
